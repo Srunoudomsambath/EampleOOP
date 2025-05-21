@@ -32,7 +32,7 @@ public class Main {
         System.out.println(contains2);
 
         //print
-        System.out.println("===================\nThis is the entry map");
+        System.out.println("===================\nThis is the Entry map");
         for(Map.Entry<Integer, String> entry : map.entrySet()){
             System.out.println(entry.getKey() + " " + entry.getValue());
         }
