@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/EampleOOP.iml" filepath="$PROJECT_DIR$/EampleOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionframework/collectionframework.iml" filepath="$PROJECT_DIR$/collectionframework/collectionframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
       <module fileurl="file://$PROJECT_DIR$/funtionalinterface/funtionalinterface.iml" filepath="$PROJECT_DIR$/funtionalinterface/funtionalinterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
